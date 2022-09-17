@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **U JUST VISITED 2023 SIH Winner**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
