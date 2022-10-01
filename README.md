@@ -1,4 +1,4 @@
-![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif)
+[![@vectorakarahul's Holopin board](https://holopin.io/api/user/board?user=vectorakarahul)](https://holopin.io/@vectorakarahul)
 <h1 align="left">Hi 👋, I'm RAHUL U Can Call Me VECTOR 🔰🔰🔰</h1>
 <h3 align="left">A passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/8da1fc2835ca6dd2879980fbc54babf9/tumblr_mxr0wx1BlO1sso6sco1_500.gif">
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-akavector&show_icons=true&locale=en" alt="rahul-akavector" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-akavector&" alt="rahul-akavector" /></p>
-<p>[![@vectorakarahul's Holopin board](https://holopin.io/api/user/board?user=vectorakarahul)](https://holopin.io/@vectorakarahul)</p>
