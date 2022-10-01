@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-akavector&show_icons=true&locale=en" alt="rahul-akavector" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-akavector&" alt="rahul-akavector" /></p>
+<p>[![@vectorakarahul's Holopin board](https://holopin.io/api/user/board?user=vectorakarahul)](https://holopin.io/@vectorakarahul)</p>
