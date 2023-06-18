@@ -11,13 +11,13 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on **CPP PROJECT OF SIMPLE GAMES**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **CPP , JAVA , FLUTTER , FLASK**
+- 🌱 I’m currently learning **Macine Learning , Flutter, Dart , Discord.py**
 
-- 🤝 I’m looking for help with **FLUTTER , DART , KOTLIN , GOOGLE APIS , NOSQL , DJANGO , FLASK**
+- 🤝 I’m looking for help with **FLUTTER , DART**
 
-- 💬 Ask me about **PYTHON , C , MYSQL , PYTHON - MYSQL CONNECTORS**
+- 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **Via My Discord Id : Vector#9042**
 
