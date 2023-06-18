@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Via My Discord Id : Vector#9042**
 
-- ⚡ Fun fact **U JUST VISITED 2023 SIH Winner**
+- ⚡ Fun fact **Coding is like solving a puzzle where you are the creator and the solver at the same time.**
 
 <p align="left">
 </p>
