@@ -8,6 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/8da1fc2835ca6dd2879980fbc54babf9/tumblr_mxr0wx1BlO1sso6sco1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-akavector&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-akavector" /> </p>
+<p align="left"> <img src = "https://wakatime.com/badge/user/018da3f3-2ea2-4837-8262-f94469756358.svg" alt="ahul-aka-vector"></p>
 
 <p align="left"> </p>
 
