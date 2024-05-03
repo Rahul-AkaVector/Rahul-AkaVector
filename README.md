@@ -85,3 +85,7 @@
     <img src="https://ytcards.demolab.com/?id=k-9NwJ3bNAY&title=How+to+install+MySQL&lang=en&timestamp=1642108413&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=578" alt="How to install MySQL [Latest Version] and Workbench on Windows 11 | No Skips and Cut Scenes" title="How to install MySQL [Latest Version] and Workbench on Windows 11 | No Skips and Cut Scenes">
   </picture>
 </a>
+
+## Contributions 
+
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg)
